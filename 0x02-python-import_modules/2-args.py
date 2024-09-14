@@ -22,4 +22,4 @@ if __name__ == '__main__':
                 continue
             else:
                 print("{}: {}".format(index, i))
-                index = index + 1;
+                index = index + 1
