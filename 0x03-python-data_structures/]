@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+def print_matrix_integer(matrix=[]):
+    i = 0
+    while (i < 3):
+        j = 0
+        while (j < 3):
+            print("{}".format(matrix[i][j]))
+            j = j + 1
+        print("{}".format(matrix[i][j]))
